@@ -1,0 +1,4 @@
+
+
+rootProject.name="mongoproject"
+
